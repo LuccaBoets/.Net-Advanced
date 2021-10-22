@@ -5985,11 +5985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boets\\source\\repos\\MyGameStore\\MyGameStore\\MyGameStore.csproj",
+      "projectUniqueName": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Labo 2-3 EF\\MyGameStore\\MyGameStore.csproj",
       "projectName": "MyGameStore",
-      "projectPath": "C:\\Users\\boets\\source\\repos\\MyGameStore\\MyGameStore\\MyGameStore.csproj",
+      "projectPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Labo 2-3 EF\\MyGameStore\\MyGameStore.csproj",
       "packagesPath": "C:\\Users\\boets\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boets\\source\\repos\\MyGameStore\\MyGameStore\\obj\\",
+      "outputPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Labo 2-3 EF\\MyGameStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

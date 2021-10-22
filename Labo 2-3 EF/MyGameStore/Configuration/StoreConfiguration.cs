@@ -21,7 +21,7 @@ namespace MyGameStore.Configuration
             builder.Property(x => x.Number).HasMaxLength(5).HasColumnType("nvarchar").IsRequired();
             builder.Property(x => x.Addition).HasMaxLength(3).HasColumnType("nvarchar");
             builder.Property(x => x.Zipcode).HasMaxLength(6).HasColumnType("nvarchar").IsRequired();
-            builder.Property(x => x.city).HasMaxLength(60).HasColumnType("nvarchar").HasColumnName("PlaceTest");
+            builder.Property(x => x.city).HasMaxLength(60).HasColumnType("nvarchar").HasColumnName("Place");
         }
     }
 }

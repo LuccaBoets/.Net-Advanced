@@ -1,0 +1,16 @@
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\bin\Debug\net5.0\Les4Oefenbundel3.exe
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\bin\Debug\net5.0\Les4Oefenbundel3.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\bin\Debug\net5.0\Les4Oefenbundel3.runtimeconfig.json
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\bin\Debug\net5.0\Les4Oefenbundel3.runtimeconfig.dev.json
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\bin\Debug\net5.0\Les4Oefenbundel3.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\bin\Debug\net5.0\ref\Les4Oefenbundel3.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\bin\Debug\net5.0\Les4Oefenbundel3.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.csproj.AssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\ref\Les4Oefenbundel3.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 4\Les4Oefenbundel1\Les4Oefenbundel3\obj\Debug\net5.0\Les4Oefenbundel3.genruntimeconfig.cache

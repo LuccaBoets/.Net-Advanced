@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dqRhfrB9/c7KmM3nCe/2bJWzWby5DuP04+v2NqIsjohUN4Q26HH3Oyb7hyxxUq/x+2kf9i6IAGQPLPEWlJsohQ==",
+  "dgSpecHash": "BciXkdkkoKKhqB9GW/nVAK2POS8qcYgxsWcj+o5NRmcsHyK3LfVLm/lpS1VD8IihPPW+hSInV1C3lF1nSSNW1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\boets\\source\\repos\\MyGameStore\\MyGameStore\\MyGameStore.csproj",
+  "projectFilePath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Labo 2-3 EF\\MyGameStore\\MyGameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boets\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\boets\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
