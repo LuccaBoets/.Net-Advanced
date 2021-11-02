@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Les5Oefening2/1.0.0": {
+        "runtime": {
+          "Les5Oefening2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Les5Oefening2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

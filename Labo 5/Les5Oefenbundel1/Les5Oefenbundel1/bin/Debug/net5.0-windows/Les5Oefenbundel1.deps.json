@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Les5Oefenbundel1/1.0.0": {
+        "runtime": {
+          "Les5Oefenbundel1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Les5Oefenbundel1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

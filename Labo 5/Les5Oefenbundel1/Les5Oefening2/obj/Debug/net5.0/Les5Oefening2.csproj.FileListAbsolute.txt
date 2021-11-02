@@ -1,0 +1,16 @@
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.csproj.AssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\bin\Debug\net5.0\Les5Oefening2.exe
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\bin\Debug\net5.0\Les5Oefening2.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\bin\Debug\net5.0\Les5Oefening2.runtimeconfig.json
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\bin\Debug\net5.0\Les5Oefening2.runtimeconfig.dev.json
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\bin\Debug\net5.0\Les5Oefening2.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\bin\Debug\net5.0\ref\Les5Oefening2.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\bin\Debug\net5.0\Les5Oefening2.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\ref\Les5Oefening2.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 5\Les5Oefenbundel1\Les5Oefening2\obj\Debug\net5.0\Les5Oefening2.genruntimeconfig.cache
