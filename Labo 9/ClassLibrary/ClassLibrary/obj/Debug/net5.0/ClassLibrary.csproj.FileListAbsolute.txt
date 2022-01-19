@@ -1,0 +1,24 @@
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\AP\.NET_advanced\labo9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\boets\OneDrive\Documents\GitHub\.Net-Advanced\Labo 9\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
