@@ -1,3 +1,5 @@
+using DAL.Extension;
+using DLL.Extension;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -30,10 +32,9 @@ namespace PersonApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<PersonContext>(options => options.UseSqlServer("name=ConnectionStrings:Person"));
+            services.RegisterDataAccessServices();
+            services.RegisterServices();
 
-            services.AddScoped<IPeopleService, PeopleService>();
-            
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

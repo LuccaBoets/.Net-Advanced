@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PersonApi.Context;
+using PersonApi.Interface;
 using PersonApi.Model;
 using PersonApi.Service;
 using System;
@@ -14,11 +15,11 @@ namespace PersonApi.Controllers
     [ApiController]
     public class PersonController : ControllerBase
     {
-        public PeopleService PeopleService { get; set; }
+        public IPeopleService PeopleService { get; set; }
 
         //public List<Person> people { get; set; }
 
-        public PersonController(PeopleService PeopleService)
+        public PersonController(IPeopleService PeopleService)
         {
             this.PeopleService = PeopleService;
 
@@ -30,7 +31,14 @@ namespace PersonApi.Controllers
         [HttpGet]
         public IActionResult GetPersons()
         {
-            return Ok(PeopleService.GetAll());
+            var result = PeopleService.GetAll();
+
+            if (!result.Any())
+            {
+                return NotFound();
+            }
+
+            return Ok(result);
         }
 
         [Route("{id}")]
@@ -43,8 +51,16 @@ namespace PersonApi.Controllers
         [HttpDelete]
         public IActionResult DeletePerson(int id)
         {
-            PeopleService.Delete(id);
-            return NoContent();
+            try
+            {
+                PeopleService.Delete(id);
+                return Ok();
+
+            }
+            catch (KeyNotFoundException e)
+            {
+                return NoContent();
+            }
         }
 
         [HttpPost]

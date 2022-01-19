@@ -1593,6 +1593,33 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.13"
+        },
+        "compile": {
+          "bin/placeholder/BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.13"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
       }
     }
   },
@@ -5968,10 +5995,22 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BLL/1.0.0": {
+      "type": "project",
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "BLL >= 1.0.0",
+      "DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.13",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.13",
       "Swashbuckle.AspNetCore >= 5.6.3"
@@ -6011,7 +6050,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Examen\\PersonApi\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Examen\\PersonApi\\BLL\\BLL.csproj"
+            },
+            "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Examen\\PersonApi\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Examen\\PersonApi\\DAL\\DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

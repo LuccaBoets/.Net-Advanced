@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace PersonApi.Service
 {
-    public class PeopleService : IPeopleService
+    public class PeopleRepository : IPeopleRepository
     {
         public PersonContext PersonContext { get; set; }
 
-        public PeopleService(PersonContext personContext)
+        public PeopleRepository(PersonContext personContext)
         {
             PersonContext = personContext;
         }
@@ -20,15 +20,20 @@ namespace PersonApi.Service
         public Person Add(Person person)
         {
             PersonContext.People.Add(person);
-            PersonContext.SaveChanges();
             return person;
         }
 
         public void Delete(int id)
         {
-            Person person = new() { id = id };
-            PersonContext.People.Remove(person);
-            PersonContext.SaveChanges();
+            Person person = PersonContext.People.Find(id);
+            if (person != null)
+            {
+                PersonContext.People.Remove(person);
+            } 
+            else
+            {
+                throw new KeyNotFoundException($"id: {id}");
+            }
         }
 
         public List<Person> GetAll()
@@ -43,8 +48,7 @@ namespace PersonApi.Service
 
         public void Update(Person person)
         {
-                        PersonContext.SaveChanges();
-
+            PersonContext.Update(person);
 
         }
     }

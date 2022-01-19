@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PersonApi.Interface
 {
-    interface IPeopleService
+    public interface IPeopleService
     {
         public List<Person> GetAll();
         public Person GetById(int id);
