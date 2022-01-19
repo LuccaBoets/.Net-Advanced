@@ -16,9 +16,20 @@ namespace MyGameStore.Configuration
               .ToTable("tblPeople", "Person")
               .HasKey(x => x.id);
 
-            builder.Property(x => x.FirstName).HasMaxLength(50).IsRequired().HasColumnType("nvarchar");
-            builder.Property(x => x.LastName).HasMaxLength(70).IsRequired().HasColumnType("nvarchar");
-            builder.Property(x => x.Email).HasMaxLength(100).HasColumnType("nvarchar").HasColumnName("EmailAddress");
+            builder.Property(x => x.FirstName)
+                .HasMaxLength(50)
+                .IsRequired()
+                .HasColumnType("nvarchar");
+
+            builder.Property(x => x.LastName)
+                .HasMaxLength(70)
+                .IsRequired()
+                .HasColumnType("nvarchar");
+
+            builder.Property(x => x.Email)
+                .HasMaxLength(100)
+                .HasColumnType("nvarchar")
+                .HasColumnName("EmailAddress");
         }
     }
 }

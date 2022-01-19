@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace MyGameStore.Controllers
 {
-    [Route("api/People")]
+    [Route("api/v1/People")]
     [ApiController]
     public class PeopleController : ControllerBase
     {

@@ -19,21 +19,18 @@ namespace MyGameStore.Contexts
 
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
             //base.OnModelCreating(modelBuilder);
 
-            modelBuilder.ApplyConfiguration(new PersonConfiguration());
-            modelBuilder.ApplyConfiguration(new StoreConfiguration());
-
+            builder.ApplyConfiguration(new PersonConfiguration());
+            builder.ApplyConfiguration(new StoreConfiguration());
 
             for (int i = 0; i < 20; i++)
             {
-                modelBuilder.Entity<Person>().HasData(new Person() { id = i, FirstName = Faker.Name.First(), LastName = Faker.Name.Last(), Email = Faker.Internet.Email() });
+                builder.Entity<Person>().HasData(new Person() { id = i, FirstName = Faker.Name.First(), LastName = Faker.Name.Last(), Email = Faker.Internet.Email() });
 
             }
-
-
         }
     }
 }

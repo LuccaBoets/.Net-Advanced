@@ -17,7 +17,7 @@ namespace MyGameStore.Entities
     //[Table("TblPeople", Schema = "Person")]
     public class Person
     {
-        //[Key]
+        [Key]
         public Nullable<int> id { get; set; }
 
         //[Required, MaxLength(50), Column(TypeName = "nvarchar(50)")]

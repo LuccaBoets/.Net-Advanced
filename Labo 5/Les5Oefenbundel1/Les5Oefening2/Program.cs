@@ -17,6 +17,18 @@ namespace Les5Oefenbundel1
 
             Console.WriteLine();
 
+            var players1 = from player1 in players
+                         where player1.DateOfBirth.Year > 1969 
+                         select player1;
+
+            foreach (var player in players1)
+            {
+                Console.WriteLine($"{player.Id}");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+
             foreach (var player in players.Where(x => x.DateOfBirth.Year > 1969).OrderBy(x => x.DateOfBirth).ToList())
             {
                 Console.WriteLine($"{player.Id} {player.DateOfBirth}");
@@ -24,11 +36,37 @@ namespace Les5Oefenbundel1
 
             Console.WriteLine();
 
+            var players2 = from player1 in players
+                           where player1.DateOfBirth.Year > 1969
+                           orderby player1.DateOfBirth ascending
+                           select player1;
+
+            foreach (var player in players2)
+            {
+                Console.WriteLine($"{player.Id} {player.DateOfBirth}");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+
             foreach (var player in players.OrderBy(x => x.LastName).ThenBy(x => x.DateOfBirth).ToList())
             {
                 Console.WriteLine($"{player.Id} {player.LastName} {player.DateOfBirth}");
             }
 
+            Console.WriteLine();
+
+            var players3 = from player1 in players
+                           orderby player1.DateOfBirth ascending
+                           orderby player1.LastName ascending
+                           select player1;
+
+            foreach (var player in players3)
+            {
+                Console.WriteLine($"{player.Id} {player.LastName} {player.DateOfBirth}");
+            }
+
+            Console.WriteLine();
             Console.WriteLine();
 
             foreach (var player in players.Where(x => x.Fines.Count > 0).ToList())
