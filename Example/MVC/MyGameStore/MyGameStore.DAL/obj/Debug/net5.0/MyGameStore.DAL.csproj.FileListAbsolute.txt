@@ -1,0 +1,15 @@
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.runtimeconfig.json
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.runtimeconfig.dev.json
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\ref\MyGameStore.DAL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.csproj.AssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\ref\MyGameStore.DAL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.genruntimeconfig.cache

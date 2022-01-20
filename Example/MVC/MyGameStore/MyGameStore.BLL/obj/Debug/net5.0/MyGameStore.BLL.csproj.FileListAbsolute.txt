@@ -1,0 +1,15 @@
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\bin\Debug\net5.0\MyGameStore.BLL.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\bin\Debug\net5.0\MyGameStore.BLL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\bin\Debug\net5.0\ref\MyGameStore.BLL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\bin\Debug\net5.0\MyGameStore.BLL.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\bin\Debug\net5.0\MyGameStore.DAL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\bin\Debug\net5.0\MyGameStore.DAL.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.csproj.AssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.csproj.CopyComplete
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\ref\MyGameStore.BLL.dll
+C:\Users\boets\OneDrive\Documents\GitHub\dotnet-advanced\MVC\MyGameStore\MyGameStore.BLL\obj\Debug\net5.0\MyGameStore.BLL.pdb
