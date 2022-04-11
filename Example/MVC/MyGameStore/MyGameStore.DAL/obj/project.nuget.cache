@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ME1lHMamBZj2KhP0qkP4/BZwE6KTpoPKCfH2ZMJ/TLSSifQnZvYJN+40rPjF5bY2mskwwVx1VAYNPu23D5vf/w==",
+  "dgSpecHash": "bvaYEI7Y8jrFYltnq6MgMrZJnk5Nbiq51EufA+tyQSQP85fBcsiYehggwkVfKopzejzDSlgXkIEVniKy+Jkgjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\dotnet-advanced\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
+  "projectFilePath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Example\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boets\\.nuget\\packages\\epplus\\5.8.2\\epplus.5.8.2.nupkg.sha512",
     "C:\\Users\\boets\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

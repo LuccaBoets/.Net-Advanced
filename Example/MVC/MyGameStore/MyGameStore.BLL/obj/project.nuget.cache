@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vsJHEPUlKNmWjhgvY2QWq2lZUnCAjttPiUk1ZWiatZ9yabKrs4x8pd5a2cPmqgz+N3YN5wXAX+8SG88H8H/D0Q==",
+  "dgSpecHash": "UnIqFXzFWq7QRqX6zNgP00YwWjw2EVEHklAitlnS5WdfupjnAsyVTmLg19YTNRxX/tGH2Iu8gmkRb+xudZcjsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\dotnet-advanced\\MVC\\MyGameStore\\MyGameStore.BLL\\MyGameStore.BLL.csproj",
+  "projectFilePath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Example\\MVC\\MyGameStore\\MyGameStore.BLL\\MyGameStore.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\boets\\.nuget\\packages\\epplus\\5.8.2\\epplus.5.8.2.nupkg.sha512",
     "C:\\Users\\boets\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

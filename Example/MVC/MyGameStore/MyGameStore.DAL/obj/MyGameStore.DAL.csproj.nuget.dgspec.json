@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\dotnet-advanced\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj": {}
+    "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Example\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\dotnet-advanced\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj": {
+    "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Example\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\dotnet-advanced\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Example\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
         "projectName": "MyGameStore.DAL",
-        "projectPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\dotnet-advanced\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
+        "projectPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Example\\MVC\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
         "packagesPath": "C:\\Users\\boets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\dotnet-advanced\\MVC\\MyGameStore\\MyGameStore.DAL\\obj\\",
+        "outputPath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\.Net-Advanced\\Example\\MVC\\MyGameStore\\MyGameStore.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
